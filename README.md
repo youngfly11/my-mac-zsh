@@ -42,7 +42,7 @@ brew update
 ## 2 install oh-my-zsh on linux
 
 ### 2.1 clone it in github
-    - sh -c "$(wget https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh -O -)"
+    sh -c "$(wget https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh -O -)"
 ### 2.2 add more tools to zsh
 - Change the theme:
     - Open `vi ~/.zshrc`
